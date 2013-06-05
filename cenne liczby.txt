@@ -1,4 +1,6 @@
 55202 - liczba przyk³adów
+52914 - dobre strony
+2288 - reklamy
 330542 - poczatkowa ilosc cech
 65154 - tyle atrybutow zostaje po przefiltrowaniu czestoscia wystepowania >= 5
 5000 - information gain filter
